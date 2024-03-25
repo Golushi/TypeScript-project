@@ -3,6 +3,7 @@ TypeScript training
 List to do Project
 
 une démonstration est disponible en vidéo :
+https://youtu.be/8GxMIkCZOQI
 
 Installation
 
