@@ -6,7 +6,7 @@ une démonstration est disponible en vidéo :
 
 Installation
 
-    Clonez le projet depuis GitHub : git clone https://github.com/Golushi/quai-antique
+    Clonez le projet depuis GitHub : git clone https://github.com/Golushi/TypeScript-project
     Installez les dépendances : npm install
 
 Utilisation
