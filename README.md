@@ -1,6 +1,6 @@
 TypeScript training 
 
-List to do Project
+To do list Project
 
 une démonstration est disponible en vidéo :
 https://youtu.be/8GxMIkCZOQI
